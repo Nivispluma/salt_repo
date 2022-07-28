@@ -1,5 +1,6 @@
 important_file:
   file.managed:
-    - name: /etc/important_file
+    - name: /home/pi/important_file
     - contents: |
         important_config: True
+
